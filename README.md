@@ -1,2 +1,2 @@
-# quartzkal.github.io
-Quartzkalk - software developer
+# Quartzkalk
+Сайт в процессе разработки...
